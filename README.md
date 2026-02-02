@@ -1,2 +1,2 @@
 # Sales-Data-Analysis-Dashboard
-A comprehensive Power BI dashboard analyzing FMCG sales data, focusing on product performance, regional trends, and seasonality to help stakeholders optimize stock and identify growth opportunities.
+An interactive Power BI dashboard analyzing sales data to track revenue, volume, and regional trends for data-driven inventory and sales decisions.

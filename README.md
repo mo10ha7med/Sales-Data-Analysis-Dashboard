@@ -19,3 +19,6 @@ This project involves the analysis of a **Sales Dataset** using **Power BI** to 
 * **Microsoft Power BI:** Used for creating the interactive dashboard.
 * **Data Transformation:** Cleaned and processed the sales data for accurate reporting.
 * **Visualizations:** Utilized Line charts, Bar charts, and Donut charts to represent sales distribution.
+  ![Power Pi](https://github.com/user-attachments/assets/135eaf4b-ec81-4c15-9037-7040b0608b00)
+
+
